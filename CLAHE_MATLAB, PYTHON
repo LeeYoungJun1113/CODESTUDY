@@ -1,4 +1,0 @@
-%% Replace CLAHE code of Python to MATLAB code
-%% You have to normalize the size of ClipLimit by dividing to 256 number.
-%% So You can input the replaced number in the MATLAB and with tile sizes.
-%% Tile Size can be entered itself anywhere, regardless any programs.
