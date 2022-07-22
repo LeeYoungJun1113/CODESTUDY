@@ -162,3 +162,4 @@ _ = plt.xticks(range(10), class_names, rotation=45)
 plt.show()
 
 np.argmax(predictions_single[0])
+
